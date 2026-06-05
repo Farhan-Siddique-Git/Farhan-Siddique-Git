@@ -75,9 +75,13 @@ I’m a Master’s student in Big Data & AI at SRH Leipzig, Germany, with prior 
 ## 📂 Featured Projects
 
 
-### 📊 Data Analytics Projects
+### 📊 Retail Analysis with Walmart Data
 
-Insights and decision-making through EDA, statistical analysis, and visualization.
+Developed and validated a time series predictive model using Python (scikit-learn) on SQL-queried Walmart sales data to forecast promotional demand, achieving a 20% improvement in demand planning accuracy.
+
+### 🤖 Crypto trading - Public behaviour Insights
+
+Conducted exploratory data analysis using Python (Pandas) on market sentiment and trader performance data. Designed metrics and Power BI dashboards to uncover behavior patterns and deliver actionable insights for data-driven trading strategies
 
 ---
 
