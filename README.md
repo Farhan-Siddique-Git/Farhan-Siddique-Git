@@ -2,7 +2,8 @@
 
 ### 🎓 Master's Student in Big Data & AI @ SRH Leipzig
 
-I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior experience in business consulting. I enjoy building real-world AI systems that solve practical problems through intelligent automation, scalable architectures, and data-driven decision-making.
+I’m a Master’s student in Big Data & AI at SRH Leipzig, Germany, with prior experience in business consulting firms like EY & KPMG. I enjoy building real-world AI systems that solve practical problems through intelligent automation, scalable architectures, and data-driven decision-making.
+
 
 ---
 
@@ -10,16 +11,13 @@ I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior expe
 
 🤖 Building Agentic AI systems, RAG applications, and LLM orchestration pipelines
 
-🏗️ Focused on scalable AI-powered workflows and backend architecture
+🏗️ Focused on scalable AI-powered workflows
 
-📊 Strong foundation in Data Analytics, EDA, and Statistical Analysis
+📊 Strong foundation in data analytics, EDA, and statistical analysis
 
-🤝 Interested in Multi-Agent Systems, AI Automation, and Applied Machine Learning
-
-💼 Previous experience in Business Consulting and Data-Driven Decision Making
+🤝 Interested in multi-agent systems, AI automation, and applied machine learning
 
 📍 Leipzig, Germany
-
 ---
 
 ## 🛠️ Tech Stack
@@ -28,13 +26,9 @@ I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior expe
 
 * Python
 * SQL
-* JavaScript
 
 ### AI & Machine Learning
 
-* OpenAI API
-* LangChain
-* LlamaIndex
 * Ollama
 * Hugging Face
 * RAG Pipelines
@@ -44,8 +38,6 @@ I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior expe
 
 * FastAPI
 * REST APIs
-* Async Python
-* Authentication & Authorization
 
 ### Data & Analytics
 
@@ -54,14 +46,12 @@ I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior expe
 * Matplotlib
 * Seaborn
 * Exploratory Data Analysis (EDA)
-* Statistical Analysis
 
 ### Databases
 
 * PostgreSQL
 * MySQL
-* SQLite
-* Vector Databases
+* Neo4j
 
 ### Tools & Platforms
 
@@ -84,14 +74,6 @@ I'm a Master's student in Big Data & AI at SRH Leipzig, Germany, with prior expe
 
 ## 📂 Featured Projects
 
-
-### 📚 RAG Applications
-
-Retrieval-Augmented Generation systems powered by vector search and LLMs.
-
-### ⚡ AI-Powered APIs
-
-Scalable backend services integrating LLMs into real-world workflows.
 
 ### 📊 Data Analytics Projects
 
