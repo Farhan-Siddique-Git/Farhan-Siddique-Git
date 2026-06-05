@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Farhan 👋
+## Hi there I'm Farhan 👋
 
 ### 🎓 Master's Student in Big Data & AI @ SRH Leipzig
 
